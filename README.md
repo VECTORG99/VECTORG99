@@ -1,10 +1,10 @@
-# 👋 ¡Hola! Soy Diego Hernández
+#  ¡Hola! Soy Diego Hernández
 
 > Estudiante de **Ingeniería Informática** con mención en **Inteligencia Artificial** · Santiago de Chile
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
