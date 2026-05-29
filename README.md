@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <strong>Languages</strong>
+  <strong>Lenguajes</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <strong>Databases</strong>
+  <strong>Bases de datos</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
@@ -57,7 +57,7 @@
 </p>
 
 <p align="center">
-  <strong>Data & Tools</strong>
+  <strong>Datos & Herramientas</strong>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
