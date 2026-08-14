@@ -87,55 +87,311 @@
 
 ---
 
-## Pausados (en desarrollo)
+## 🤝 Contribuyendo activamente
 
-Proyectos en los que sigo trabajando pero que están pausados temporalmente.
-
-### Proyectos propios
-
-| Proyecto | Descripción | Stack |
-|----------|-------------|-------|
-| [**OpenVist**](https://github.com/VECTORG99/OpenVist) | Computer-use + automatización de capturas de pantalla con IA local para Wayland/Hyprland. Sin cloud, sin enviar datos a terceros. | Bash, Python, Ollama |
-| [**local.Visual**](https://github.com/VECTORG99/local.Visual) | Local visual interpreter AI — intérprete de imágenes con Ollama. Fork de OpenVist enfocado solo en interpretación. | Python, Ollama |
-| [**ACF**](https://github.com/VECTORG99/acf) | Orchestrator skill para craft issues y PRs con contexto rico. 9 fases, compaction Kimi-inspired, caveman mode, MCP server. | Markdown, Python, MCP |
-| [**Artemisa**](https://github.com/VECTORG99/Artemisa) | Plataforma open-source para diseñar agentes de desarrollo y operación mediante árbol de decisiones. Hackathon Kiro x Código Facilito 2026. | Node.js, TypeScript, Express, React |
-| [**Canectt**](https://github.com/VECTORG99/Canectt) | Convierte documentos (PDF, Word, Excel, Markdown) en rutinas/horarios editables, exportables a calendarios Google/iOS/Android. | — |
-| [**newty**](https://github.com/VECTORG99/newty) | Script que investiga proyectos trending de GitHub y genera fichas informativas en español. | — |
-| [**Portafolio**](https://github.com/VECTORG99/Portafolio) | Portafolio web personal con React 19, Vite, Framer Motion, modo oscuro, i18n ES/EN. | React, Vite, Supabase |
-| [**3d-tools**](https://github.com/VECTORG99/3d-tools) | Pipeline de creación de assets para Herne — modelos 3D low-poly, audio, texturas → Roblox Open Cloud. | Python, Roblox |
-| [**omarchy-frutiger-aero**](https://github.com/VECTORG99/omarchy-frutiger-aero) | Tema Frutiger Aero para Omarchy on Hyprland — glassmorphism, blur, wallpapers auténticos. | Lua, CSS, Bash |
-| [**Proyecto_Alsort**](https://github.com/VECTORG99/Proyecto_Alsort) | Gestor inteligente de playlists de Spotify. Extrae canciones likeadas, enriquece con audio features, filtros AND/OR. | Python, Spotify API |
-| [**krono-platform**](https://github.com/VECTORG99/krono-platform) | Plataforma educativa inteligente con roles Admin > Profesor > Estudiante. Integración multi-proveedor de IA. | — |
-
-### Proyectos externos (contribuyendo)
-
-| Proyecto | Descripción | Rol |
-|----------|-------------|-----|
-| [**Herne**](https://github.com/HTW-Games/Herne) | Co-op survival horror en Roblox. Bosque procedural infinito, folklore inglés, 2-4 jugadores. 60 archivos Luau, 1640 tests. | Contributor + admin |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 Yap</h3>
+      <p align="center"><em>Agente IA local para ChincoLinux</em></p>
+      <p align="center">CPU-only, español, sin dependencias cloud</p>
+      <p align="center">
+        <a href="https://github.com/ChincoLinux/Yap">
+          <img src="https://img.shields.io/badge/🔗_Repo-ChincoLinux/Yap-3776AB?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Rol-Contributor-2BA44E?style=flat-square" alt="Contributor"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🐧 ChincoLinux</h3>
+      <p align="center"><em>Tecnología abierta para las aulas de Chile</em></p>
+      <p align="center">Proyecto libre y comunitario</p>
+      <p align="center">
+        <a href="https://github.com/Daniel-um8/ChincoLinux">
+          <img src="https://img.shields.io/badge/🔗_Repo-Daniel--um8/ChincoLinux-2088FF?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🌐_Community-2088FF?style=flat-square&logo=github&logoColor=white" alt="Community"/>
+        <img src="https://img.shields.io/badge/Rol-Contributor-2BA44E?style=flat-square" alt="Contributor"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏠 homedir</h3>
+      <p align="center"><em>Plataforma comunitaria con AI Agents</em></p>
+      <p align="center">Desarrollada 100% con AI Agents, Agentic y AI SDLC</p>
+      <p align="center">
+        <a href="https://github.com/os-santiago/homedir">
+          <img src="https://img.shields.io/badge/🔗_Repo-os--santiago/homedir-6E40C9?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🤖_AI_SDLc-6E40C9?style=flat-square" alt="AI SDLC"/>
+        <img src="https://img.shields.io/badge/Rol-Fork_+_Contributor-DB6A2D?style=flat-square" alt="Fork + Contributor"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📝 Joidy</h3>
+      <p align="center"><em>Free and open-source note web app</em></p>
+      <p align="center">App de notas web, libre y de código abierto</p>
+      <p align="center">
+        <a href="https://github.com/Axel-DaMage/joidy">
+          <img src="https://img.shields.io/badge/🔗_Repo-Axel--DaMage/joidy-1F6FEB?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/📝_Notes_App-1F6FEB?style=flat-square" alt="Notes App"/>
+        <img src="https://img.shields.io/badge/Rol-Contributor-2BA44E?style=flat-square" alt="Contributor"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## Contribuyendo activamente
-
-| Proyecto | Descripción | Rol |
-|----------|-------------|-----|
-| [**Yap**](https://github.com/ChincoLinux/Yap) | Agente IA local para ChincoLinux (CPU-only, español). | Contributor |
-| [**ChincoLinux**](https://github.com/Daniel-um8/ChincoLinux) | Proyecto libre y comunitario que busca llevar la tecnología abierta a las aulas de Chile. | Contributor |
-| [**homedir**](https://github.com/os-santiago/homedir) | Plataforma comunitaria desarrollada 100% con AI Agents, Agentic y AI SDLC. | Fork + contributor |
-| [**Joidy**](https://github.com/Axel-DaMage/joidy) | Free and open-source note web app. | Contributor |
-
----
-
-## Sin desarrollo (archivados)
+## ⏸️ Pausados (en desarrollo)
 
 <details>
-<summary>Proyectos archivados — referencia educativa y de portafolio</summary>
+<summary><b>Proyectos propios — 11 repos</b></summary>
+<br>
 
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| [Ecomarket](https://github.com/VECTORG99/Ecomarket) | E-commerce educativo con Spring Boot. 229 tests, 82.84% coverage. | Archivado |
-| [FullSound-KOTLIN](https://github.com/VECTORG99/FullSound-KOTLIN) | App Android marketplace de beats. MVVM + Supabase + Room. | Archivado |
-| [FULLSOUND-SPRINGBOOT](https://github.com/VECTORG99/FULLSOUND-SPRINGBOOT) | API REST backend para marketplace de beats. 137 tests. | Archivado |
-| [DataGestor](https://github.com/VECTORG99/DataGestor) | Dashboard analítico + ML de crímenes en London (2008-2016). | Archivado |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📸 OpenVist</h3>
+      <p align="center"><em>Computer-use + capturas con IA local</em></p>
+      <p align="center">Wayland/Hyprland · Sin cloud · Sin enviar datos</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/OpenVist">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/OpenVist-4EAA25?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/🦙_Ollama-000000?style=flat-square" alt="Ollama"/>
+        <img src="https://img.shields.io/badge/🐚_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">👁️ local.Visual</h3>
+      <p align="center"><em>Local visual interpreter AI</em></p>
+      <p align="center">Intérprete de imágenes con Ollama · Fork de OpenVist</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/local.Visual">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/local.Visual-3776AB?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/🦙_Ollama-000000?style=flat-square" alt="Ollama"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚙️ ACF</h3>
+      <p align="center"><em>Agent Context Forge</em></p>
+      <p align="center">Orchestrator skill · 9 fases · Compaction · Caveman · MCP</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/acf">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/acf-2088FF?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/📄_Markdown-2088FF?style=flat-square" alt="Markdown"/>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/🔌_MCP-6E40C9?style=flat-square" alt="MCP"/>
+        <img src="https://img.shields.io/badge/🏷️_v1.0.0-2BA44E?style=flat-square" alt="v1.0.0"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌳 Artemisa</h3>
+      <p align="center"><em>Plataforma de agentes con árbol de decisiones</em></p>
+      <p align="center">Hackathon Kiro x Código Facilito 2026</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/Artemisa">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/Artemisa-3178C6?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🟦_TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/🚀_Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+        <img src="https://img.shields.io/badge/⚛️_React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📅 Canectt</h3>
+      <p align="center"><em>Documentos → rutinas → calendarios</em></p>
+      <p align="center">PDF, Word, Excel, Markdown → Google/iOS/Android</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/Canectt">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/Canectt-00C7B7?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/📅_Calendar-00C7B7?style=flat-square" alt="Calendar"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 newty</h3>
+      <p align="center"><em>GitHub Trending → fichas en español</em></p>
+      <p align="center">Investiga proyectos trending y genera fichas informativas</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/newty">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/newty-2088FF?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🔍_Trending-2088FF?style=flat-square" alt="Trending"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 Portafolio</h3>
+      <p align="center"><em>Portafolio web personal</em></p>
+      <p align="center">React 19 · Vite · Framer Motion · i18n ES/EN</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/Portafolio">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/Portafolio-61DAFB?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/⚛️_React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19"/>
+        <img src="https://img.shields.io/badge/⚡_Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+        <img src="https://img.shields.io/badge/🎨_Framer-0055FF?style=flat-square" alt="Framer Motion"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎮 3d-tools</h3>
+      <p align="center"><em>Pipeline de assets para Herne</em></p>
+      <p align="center">Modelos 3D low-poly · Audio · Texturas → Roblox Open Cloud</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/3d-tools">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/3d--tools-3776AB?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/🎮_Roblox-000000?style=flat-square" alt="Roblox"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🪟 omarchy-frutiger-aero</h3>
+      <p align="center"><em>Tema Frutiger Aero para Omarchy</em></p>
+      <p align="center">Glassmorphism · Blur · Wallpapers auténticos · Hyprland</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/omarchy-frutiger-aero">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/omarchy--frutiger--aero-58E1FF?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🌙_Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+        <img src="https://img.shields.io/badge/🎨_CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+        <img src="https://img.shields.io/badge/🐚_Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🎵 Proyecto_Alsort</h3>
+      <p align="center"><em>Gestor inteligente de playlists de Spotify</em></p>
+      <p align="center">Canciones likeadas · Audio features · Filtros AND/OR</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/Proyecto_Alsort">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/Proyecto__Alsort-1DB954?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/🎧_Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" alt="Spotify"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3 align="center">📚 krono-platform</h3>
+      <p align="center"><em>Plataforma educativa inteligente</em></p>
+      <p align="center">Roles Admin > Profesor > Estudiante · Integración multi-proveedor de IA (OpenAI, Claude, Ollama)</p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/krono-platform">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/krono--platform-6E40C9?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🎓_Educación-6E40C9?style=flat-square" alt="Educación"/>
+        <img src="https://img.shields.io/badge/🤖_Multi_IA-6E40C9?style=flat-square" alt="Multi IA"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+<details>
+<summary><b>Proyecto externo — contribuyendo</b></summary>
+<br>
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3 align="center">🐺 Herne — The Wild Hunt</h3>
+      <p align="center"><em>Co-op survival horror en Roblox</em></p>
+      <p align="center">Bosque procedural infinito · Folklore inglés · 2-4 jugadores</p>
+      <p align="center">
+        <a href="https://github.com/HTW-Games/Herne">
+          <img src="https://img.shields.io/badge/🔗_Repo-HTW--Games/Herne-000000?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🌙_Luau-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Luau"/>
+        <img src="https://img.shields.io/badge/🎮_Roblox-000000?style=flat-square" alt="Roblox"/>
+        <img src="https://img.shields.io/badge/🧪_1640_tests-0E8A16?style=flat-square" alt="1640 tests"/>
+        <img src="https://img.shields.io/badge/Rol-Contributor_+_Admin-DB6A2D?style=flat-square" alt="Contributor + Admin"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+---
+
+## 📦 Sin desarrollo (archivados)
+
+<details>
+<summary><b>Proyectos archivados — referencia educativa y de portafolio</b></summary>
+<br>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🛒 Ecomarket</h3>
+      <p align="center"><em>E-commerce educativo con Spring Boot</em></p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/Ecomarket">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/Ecomarket-6DB33F?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/☕_Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/🧪_229_tests-0E8A16?style=flat-square" alt="229 tests"/>
+        <img src="https://img.shields.io/badge/📊_82%25_coverage-0E8A16?style=flat-square" alt="82% coverage"/>
+        <img src="https://img.shields.io/badge/Status-Archived-6E7681?style=flat-square" alt="Archived"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 FullSound-KOTLIN</h3>
+      <p align="center"><em>App Android marketplace de beats</em></p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/FullSound-KOTLIN">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/FullSound--KOTLIN-7F52FF?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🤖_Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+        <img src="https://img.shields.io/badge/☁️_Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase"/>
+        <img src="https://img.shields.io/badge/Status-Archived-6E7681?style=flat-square" alt="Archived"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">☕ FULLSOUND-SPRINGBOOT</h3>
+      <p align="center"><em>API REST backend para marketplace de beats</em></p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/FULLSOUND-SPRINGBOOT">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/FULLSOUND--SPRINGBOOT-6DB33F?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/☕_Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Boot"/>
+        <img src="https://img.shields.io/badge/🧪_137_tests-0E8A16?style=flat-square" alt="137 tests"/>
+        <img src="https://img.shields.io/badge/Status-Archived-6E7681?style=flat-square" alt="Archived"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📊 DataGestor</h3>
+      <p align="center"><em>Dashboard analítico + ML de crímenes en London</em></p>
+      <p align="center">
+        <a href="https://github.com/VECTORG99/DataGestor">
+          <img src="https://img.shields.io/badge/🔗_Repo-VECTORG99/DataGestor-3776AB?style=flat-square" alt="Repo"/>
+        </a>
+        <img src="https://img.shields.io/badge/🐍_Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/🤖_ML-3776AB?style=flat-square" alt="ML"/>
+        <img src="https://img.shields.io/badge/Status-Archived-6E7681?style=flat-square" alt="Archived"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
