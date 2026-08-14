@@ -84,3 +84,44 @@
   <a href="https://github.com/VECTORG99"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.instagram.com/diegomayacvdm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 </p>
+
+---
+
+## Proyectos activos
+
+### Proyectos propios
+
+| Proyecto | Descripción | Stack |
+|----------|-------------|-------|
+| [**OpenVist**](https://github.com/VECTORG99/OpenVist) | Captura de pantalla + análisis con IA local para Wayland/Hyprland. Sin cloud, sin enviar datos a terceros. | Bash, Python, Ollama |
+| [**ACF**](https://github.com/VECTORG99/acf) | Orchestrator skill para craft issues y PRs con contexto rico. 9 fases, compaction Kimi-inspired, caveman mode, MCP server. | Markdown, Python, MCP |
+| [**Artemisa**](https://github.com/VECTORG99/Artemisa) | Plataforma open-source para diseñar agentes de desarrollo y operación mediante árbol de decisiones. Hackathon Kiro x Código Facilito 2026. | Node.js, TypeScript, Express, React |
+| [**Canectt**](https://github.com/VECTORG99/Canectt) | Convierte documentos (PDF, Word, Excel, Markdown) en rutinas/horarios editables, exportables a calendarios Google/iOS/Android. | — |
+| [**Yap**](https://github.com/VECTORG99/Yap) | Agente IA local para ChincoLinux (CPU-only, español). | Python |
+| [**newty**](https://github.com/VECTORG99/newty) | Script que investiga proyectos trending de GitHub y genera fichas informativas en español. | — |
+| [**Portafolio**](https://github.com/VECTORG99/Portafolio) | Portafolio web personal con React 19, Vite, Framer Motion, modo oscuro, i18n ES/EN. | React, Vite, Supabase |
+| [**Herne-3D-Tools**](https://github.com/VECTORG99/Herne-3D-Tools) | Pipeline de creación de assets para Herne — modelos 3D low-poly, audio, texturas → Roblox Open Cloud. | Python, Roblox |
+| [**omarchy-frutiger-aero**](https://github.com/VECTORG99/omarchy-frutiger-aero) | Tema Frutiger Aero para Omarchy on Hyprland — glassmorphism, blur, wallpapers auténticos. | Lua, CSS, Bash |
+
+### Proyectos externos (contribuyendo)
+
+| Proyecto | Descripción | Rol |
+|----------|-------------|-----|
+| [**Herne**](https://github.com/HTW-Games/Herne) | Co-op survival horror en Roblox. Bosque procedural infinito, folklore inglés, 2-4 jugadores. 60 archivos Luau, 1640 tests. | Contributor + admin |
+| [**homedir**](https://github.com/os-santiago/homedir) | Plataforma comunitaria desarrollada 100% con AI Agents, Agentic y AI SDLC. | Fork + contributor |
+
+### Archivados (referencia)
+
+<details>
+<summary>Proyectos archivados — sin soporte continuo</summary>
+
+| Proyecto | Descripción | Estado |
+|----------|-------------|--------|
+| [Ecomarket](https://github.com/VECTORG99/Ecomarket) | E-commerce educativo con Spring Boot. 229 tests, 82.84% coverage. | Archivado |
+| [FullSound-KOTLIN](https://github.com/VECTORG99/FullSound-KOTLIN) | App Android marketplace de beats. MVVM + Supabase + Room. | Archivado |
+| [FULLSOUND-SPRINGBOOT](https://github.com/VECTORG99/FULLSOUND-SPRINGBOOT) | API REST backend para marketplace de beats. 137 tests. | Archivado |
+| [DataGestor](https://github.com/VECTORG99/DataGestor) | Dashboard analítico + ML de crímenes en London (2008-2016). | Archivado |
+| [krono-platform](https://github.com/VECTORG99/krono-platform) | Plataforma educativa con roles Admin > Profesor > Estudiante. | Archivado |
+| [Proyecto_Alsort](https://github.com/VECTORG99/Proyecto_Alsort) | Gestor inteligente de playlists de Spotify. | Archivado |
+
+</details>
