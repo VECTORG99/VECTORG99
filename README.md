@@ -89,6 +89,10 @@
 
 ## 🤝 Contribuyendo activamente
 
+<details>
+<summary><b>4 proyectos — Yap, ChincoLinux, homedir, Joidy</b></summary>
+<br>
+
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -143,6 +147,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 ---
 
